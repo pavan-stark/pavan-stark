@@ -11,4 +11,3 @@
 
 
 
-<img align="left" src=''/>
