@@ -1,7 +1,7 @@
 # Hi there,I'm Pavan Kalyan✋
 
 <img align="left" width="47%" src='https://github-readme-stats.vercel.app/api?username=pavan-stark&show_icons=true&theme=radical'/>
-<img align="left" width="47% "src='https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-stark&layout=compact'/>
+<img align="left" width="50% "src='https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-stark&layout=compact'/>
 
 
 <img alt="CSS3"    src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
