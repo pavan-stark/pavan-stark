@@ -5,7 +5,7 @@ My goal is to apply my skills to real-world problems and make a positive impact 
 
 Skills: PYTHON/DATA ANALYTICS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- ### 🔭 I’m currently working as a Data Science Intern at Innomatics Research Labs
 
 
 
